@@ -1,4 +1,4 @@
-DESCRIPTION:  Contains all folders and files necessary to launch stand-alone Windows version of original, unchanged 'SpaceShooter' Unity/C# project from GameDevHQ.
+DESCRIPTION:  Contains all folders and files necessary to launch stand-alone Windows version of ORIGINAL, unchanged 'SpaceShooter' Unity/C# project from GameDevHQ.
 
 =============================
 
