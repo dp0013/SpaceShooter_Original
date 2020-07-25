@@ -2,11 +2,9 @@ DESCRIPTION:  Contains all folders and files necessary to launch stand-alone Win
 
 =============================
 
-HOW TO USE:   Download zip file.  Open SpaceShooter.zip and download all folders and files contained in the 'SpaceShooter' folder to one location on a Windows OS.  
-Launch the game by double-clicking on the SpaceShooter.exe application file.
+HOW TO USE:   Download zip file.  Open SpaceShooter.zip and download all folders and files contained in the 'SpaceShooter' folder to one location on a Windows OS.  Launch the game by double-clicking on the SpaceShooter.exe application file.
 
-WARNING:  This is a very boring game as it is a beginner Unity/C# project.  There is no ending; if you get hit 3 times, the game is over.  May provide
-minimal enjoyment in competing against others for bragging rights.  :)
+WARNING:  This is a very boring game as it is a beginner Unity/C# project.  There is no ending; if you get hit 3 times, the game is over.  May provide minimal enjoyment in competing against others for bragging rights.  :)
 
 =============================
 
